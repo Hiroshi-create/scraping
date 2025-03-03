@@ -1,0 +1,13 @@
+//*[@id="mainContents"]/ul/li[1]/div[2]/div/div[1]/dl[2]/dd[4]/a
+
+//*[@id="mainContents"]/ul/li[1]/div[2]/div/div[1]/dl[2]/dd[4]/a
+//*[@id="mainContents"]/ul/li[2]/div[2]/div/div[1]/dl[2]/dd[4]/a
+//*[@id="mainContents"]/ul/li[3]/div[2]/div/div[1]/dl[2]/dd[4]/a
+
+
+
+//*[@id="mainContents"]/div[4]/ul/li[1]/div[1]/div/p/span[2]
+//*[@id="mainContents"]/div[4]/ul/li[1]/div[2]/p
+
+//*[@id="mainContents"]/div[4]/ul/li[2]/div[1]/div/p/span[2]
+//*[@id="mainContents"]/div[4]/ul/li[2]/div[2]/p
